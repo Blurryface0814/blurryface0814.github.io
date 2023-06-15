@@ -17,7 +17,7 @@ I received the B.S degree in vehicle engineering from the College of Engineering
 
 - **[Jun. 2023]** Our paper *PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction* will be transferred to ICRA 2024.
 - **[May. 2023]** Our paper *PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction* is accepted to RAL.
-- **[Feb. 2022]** Our paper *Object Detection and Tracking Technology Based on Fusion of Infrared Camera and MMW Radar in Smoke Obscured Environment* is accepted to Acta Armamentarii.
+- **[Feb. 2023]** Our paper *Object Detection and Tracking Technology Based on Fusion of Infrared Camera and MMW Radar in Smoke Obscured Environment* is accepted to Acta Armamentarii.
 - **[Oct. 2022]** Our paper *Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds* is accepted to ICUS 2022.
 
 {% include_relative _includes/publications.md %}
