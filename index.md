@@ -22,4 +22,4 @@ I received the B.S degree in vehicle engineering from the College of Engineering
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} --> 
