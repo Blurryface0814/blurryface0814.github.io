@@ -8,8 +8,10 @@ I received the B.S degree in vehicle engineering from the College of Engineering
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Robotics**
+- **Intelligent Vehicles**
+- **3D Semantic Segmentation**
+- **Point Cloud Sequence Processing**
 
 ## News
 
