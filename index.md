@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I received the B.S degree in vehicle engineering from the College of Engineering, China Agricultural University, Beijing, China, in 2021. I’m currently a Master student in Intelligent Vehicle Research Center at Beijing Institute of Technology. I am very interested in the perception of intelligent vehicles and robotics, especially point cloud perception tasks. I am doing research on point cloud perception under adverse weather and point cloud sequence processing.
 
 ## Research Interests
 
