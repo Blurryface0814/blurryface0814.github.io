@@ -36,7 +36,7 @@
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10141631?casa_token=_FYx0HzvUMMAAAAA:umVVz5gsOHEUkf659uSD8SZyh4HsOR4dN4lVy5hucKSvOO8yjM66AxqF5hSh4HiiF8x4OE8gDepjoNw">PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction</a></div>
     <div class="author"><strong>Zhen Luo</strong>, Junyi Ma, Zijie Zhou, Guangming Xiong</div>
     <div class="periodical"><em>IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2023.</em></div>
-    <div class="periodical"><em>IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.</em></div>
+    <div class="periodical"><em>IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.</em> <strong><i style="color:#e74d3c">Oral Presentation</i></strong> </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2304.07773.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Blurryface0814/PCPNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -84,7 +84,6 @@
       <a href="https://ieeexplore.ieee.org/abstract/document/9986567?casa_token=qNchr2SfrosAAAAA:X_eFBocqcNKX0-2tRllN3RNuQDV-_McLf5TZvMv_nkcKkpPzfYNVSDCNyC7jkNubSb2a3Zi6420n5VY" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Blurryface0814/SunnyNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://github.com/Blurryface0814/blurryface0814.github.io/raw/main/assets/bibtex/SunnyNet.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
   </div>
 </div>
