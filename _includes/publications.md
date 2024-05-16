@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/predictions.gif" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/Cam4DOcc.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
 
@@ -18,7 +18,7 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2311.17663" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/haomo-ai/Cam4DOcc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qhE7JaUfnLMJ:scholar.google.com/&output=citation&scisdr=ClE5tWiXELCTte90GPY:AFWwaeYAAAAAZkVyAPae4tbi6Z_WP1-jsBaE2f8&scisig=AFWwaeYAAAAAZkVyAOz5dGq07VJG3V5PQp9LnKw&scisf=4&ct=citation&cd=-1&hl=zh-CN" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qhE7JaUfnLMJ:scholar.google.com/&output=citation&scisdr=ClE5tWiXELCTte90GPY:AFWwaeYAAAAAZkVyAPae4tbi6Z_WP1-jsBaE2f8&scisig=AFWwaeYAAAAAZkVyAOz5dGq07VJG3V5PQp9LnKw&scisf=4&ct=citation&cd=-1&hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
