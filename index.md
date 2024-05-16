@@ -15,7 +15,7 @@ I received the B.S degree in vehicle engineering from the College of Engineering
 
 ## News
 
-- **[Feb. 2024]** Our paper *[2]	Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications* is accepted to CVPR 2024.
+- **[Feb. 2024]** Our paper *Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications* is accepted to CVPR 2024.
 - **[Jun. 2023]** Our paper *PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction* will be transferred to ICRA 2024.
 - **[May. 2023]** Our paper *PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction* is accepted to RA-L.
 - **[Feb. 2023]** Our paper *Object Detection and Tracking Technology Based on Fusion of Infrared Camera and MMW Radar in Smoke Obscured Environment* is accepted to Acta Armamentarii.
