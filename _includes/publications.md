@@ -12,11 +12,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10141631?casa_token=_FYx0HzvUMMAAAAA:umVVz5gsOHEUkf659uSD8SZyh4HsOR4dN4lVy5hucKSvOO8yjM66AxqF5hSh4HiiF8x4OE8gDepjoNw">Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2311.17663">Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications</a></div>
     <div class="author">Junyi Ma, Xieyuanli Chen, Jiawei Huang, Jingyi Xu, <strong>Zhen Luo</strong>, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang </div>
     <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2304.07773.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2311.17663" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Blurryface0814/PCPNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:dSDIiNKpStUJ:scholar.google.com/&output=citation&scisdr=Cm0hZPtzEI7s6CnWycY:AGlGAw8AAAAAZIrQ0cYM2niwAZeZwgxdCLjJ2hc&scisig=AGlGAw8AAAAAZIrQ0WTPc4jeegVSnDLTNUuvImo&scisf=4&ct=citation&cd=-1&hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
