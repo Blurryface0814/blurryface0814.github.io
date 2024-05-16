@@ -24,6 +24,27 @@
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/predictions.gif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">RA-L</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10141631?casa_token=_FYx0HzvUMMAAAAA:umVVz5gsOHEUkf659uSD8SZyh4HsOR4dN4lVy5hucKSvOO8yjM66AxqF5hSh4HiiF8x4OE8gDepjoNw">PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction</a></div>
+    <div class="author"><strong>Zhen Luo</strong>, Junyi Ma, Zijie Zhou, Guangming Xiong</div>
+    <div class="periodical"><em>IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2304.07773.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Blurryface0814/PCPNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:dSDIiNKpStUJ:scholar.google.com/&output=citation&scisdr=Cm0hZPtzEI7s6CnWycY:AGlGAw8AAAAAZIrQ0cYM2niwAZeZwgxdCLjJ2hc&scisig=AGlGAw8AAAAAZIrQ0WTPc4jeegVSnDLTNUuvImo&scisf=4&ct=citation&cd=-1&hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row">
