@@ -79,7 +79,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9986567?casa_token=qNchr2SfrosAAAAA:X_eFBocqcNKX0-2tRllN3RNuQDV-_McLf5TZvMv_nkcKkpPzfYNVSDCNyC7jkNubSb2a3Zi6420n5VY">Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds</a></div>
     <div class="author"><strong>Zhen Luo</strong>, Junyi Ma, Guangming Xiong, Xiuzhong Hu, Zijie Zhou, Jiahui Xu</div>
-    <div class="periodical"><em>IEEE International Conference on Unmanned Systems <strong>(ICUS)</strong>, 2022.</em></div>
+    <div class="periodical"><em>IEEE International Conference on Unmanned Systems <strong>(ICUS)</strong>, 2022.</em>  <strong><i style="color:#e74d3c">Oral Presentation</i></strong> </div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/9986567?casa_token=qNchr2SfrosAAAAA:X_eFBocqcNKX0-2tRllN3RNuQDV-_McLf5TZvMv_nkcKkpPzfYNVSDCNyC7jkNubSb2a3Zi6420n5VY" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Blurryface0814/SunnyNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
