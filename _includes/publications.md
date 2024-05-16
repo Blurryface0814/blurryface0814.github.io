@@ -56,7 +56,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="http://www.co-journal.com/EN/10.12382/bgxb.2022.0602">Object Detection and Tracking Technology Based on Fusion of Infrared Camera and MMW Radar in Smoke Obscured Environment </a></div>
+    <div class="title"><a href="http://www.co-journal.com/EN/10.12382/bgxb.2022.0602">Object Detection and Tracking for Unmanned Vehicles Based on Fusion of Infrared Camera and MMW Radar in Smoke-obscured Environment </a></div>
     <div class="author">Guangming Xiong, <strong>Zhen Luo</strong>, Dong Sun, Junfeng Tao, Zeyue Tang, Chao Wu</div>
     <div class="periodical"><em>Acta Armamentarii, 2023.</em></div>
     <div class="links">
