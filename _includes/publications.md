@@ -18,7 +18,7 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2311.17663" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/haomo-ai/Cam4DOcc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://github.com/Blurryface0814/blurryface0814.github.io/blob/main/assets/bibtex/Cam4DOcc.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://github.com/Blurryface0814/blurryface0814.github.io/raw/main/assets/bibtex/Cam4DOcc.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -40,7 +40,7 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2304.07773.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Blurryface0814/PCPNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:dSDIiNKpStUJ:scholar.google.com/&output=citation&scisdr=Cm0hZPtzEI7s6CnWycY:AGlGAw8AAAAAZIrQ0cYM2niwAZeZwgxdCLjJ2hc&scisig=AGlGAw8AAAAAZIrQ0WTPc4jeegVSnDLTNUuvImo&scisf=4&ct=citation&cd=-1&hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://github.com/Blurryface0814/blurryface0814.github.io/raw/main/assets/bibtex/PCPNet.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -61,7 +61,7 @@
     <div class="periodical"><em>Acta Armamentarii, 2023.</em></div>
     <div class="links">
       <a href="http://www.co-journal.com/EN/10.12382/bgxb.2022.0602" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:_csk4Cy7h_wJ:scholar.google.com/&output=citation&scisdr=Cm0hZPtzEI7s6CnJL0o:AGlGAw8AAAAAZIrPN0rtKGSBcocfbFbBPUUZi2E&scisig=AGlGAw8AAAAAZIrPN4ao_l_7lLnKKjFYZHq5Wr4&scisf=4&ct=citation&cd=-1&hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://github.com/Blurryface0814/blurryface0814.github.io/raw/main/assets/bibtex/Acta_Armamentarii.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -83,7 +83,7 @@
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/9986567?casa_token=qNchr2SfrosAAAAA:X_eFBocqcNKX0-2tRllN3RNuQDV-_McLf5TZvMv_nkcKkpPzfYNVSDCNyC7jkNubSb2a3Zi6420n5VY" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Blurryface0814/SunnyNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:up5tYRsDTXwJ:scholar.google.com/&output=citation&scisdr=Cm0hZPtzEI7s6CnWR0g:AGlGAw8AAAAAZIrQX0iZJMbyHls6PCgEJvIlCGY&scisig=AGlGAw8AAAAAZIrQX9y3ddOyDA6fLZVkJnc8GFY&scisf=4&ct=citation&cd=-1&hl=zh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://github.com/Blurryface0814/blurryface0814.github.io/raw/main/assets/bibtex/SunnyNet.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
   </div>
