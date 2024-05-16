@@ -1,0 +1,9 @@
+@article{xiong2024object,
+  title={Object Detection and Tracking for Unmanned Vehicles Based on Fusion of Infrared Camera and MMW Radar in Smoke-obscured Environment},
+  author={XIONG, Guangming and LUO, Zhen and SUN, Dong and TAO, Junfeng and TANG, Zeyue and WU, Chao},
+  journal={Acta Armamentarii},
+  volume={45},
+  number={3},
+  pages={893},
+  year={2024}
+}

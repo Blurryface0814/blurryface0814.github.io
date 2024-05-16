@@ -1,0 +1,8 @@
+@inproceedings{luo2022semantic,
+  title={Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds},
+  author={Luo, Zhen and Ma, Junyi and Xiong, Guangming and Hu, Xiuzhong and Zhou, Zijie and Xu, Jiahui},
+  booktitle={2022 IEEE International Conference on Unmanned Systems (ICUS)},
+  pages={90--95},
+  year={2022},
+  organization={IEEE}
+}

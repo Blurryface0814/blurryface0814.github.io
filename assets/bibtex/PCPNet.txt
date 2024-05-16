@@ -1,0 +1,7 @@
+@article{luo2023pcpnet,
+  title={Pcpnet: An efficient and semantic-enhanced transformer network for point cloud prediction},
+  author={Luo, Zhen and Ma, Junyi and Zhou, Zijie and Xiong, Guangming},
+  journal={IEEE Robotics and Automation Letters},
+  year={2023},
+  publisher={IEEE}
+}
