@@ -1,0 +1,6 @@
+@article{ma2023cam4docc,
+  title={Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications},
+  author={Ma, Junyi and Chen, Xieyuanli and Huang, Jiawei and Xu, Jingyi and Luo, Zhen and Xu, Jintao and Gu, Weihao and Ai, Rui and Wang, Hesheng},
+  journal={arXiv preprint arXiv:2311.17663},
+  year={2023}
+}
